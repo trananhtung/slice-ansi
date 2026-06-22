@@ -1,6 +1,6 @@
 [package]
 name = "slice-ansi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 rust-version = "1.81"
 description = "Slice a string by terminal display column, preserving ANSI styling and wide (CJK) characters. A Rust take on Node's slice-ansi."
